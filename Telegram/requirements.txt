@@ -1,0 +1,6 @@
+# Bot transport
+httpx
+
+# Optional: local speech-to-text for /watch when a video has no captions.
+# Install into the private venv described in SETUP.md, not globally:
+# faster-whisper
